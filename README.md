@@ -16,3 +16,7 @@ Crop the image using YOLO's txt information
 
 - --output_folder(default="data") : Specify the output destination folder. Folders are numbered according to the bounding box number. (Example: data0, data1 ...)
 - --format : Specify the extension of the image.
+
+## Blog
+
+https://ar-ray.hatenablog.com/entry/2021/01/20/005535
